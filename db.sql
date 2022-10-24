@@ -14,3 +14,5 @@ CREATE TABLE telefoni(
 -- commento fatto da remoto
 
 -- ciao son sul master
+
+--  ok
