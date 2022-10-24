@@ -12,3 +12,11 @@ CREATE TABLE telefoni(
 
 -- commento fatto su github
 -- commento fatto da remoto
+
+DELIMITER $$
+
+CREATE TRIGGER prova(
+
+)
+
+DELIMITER ;
