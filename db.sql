@@ -12,3 +12,5 @@ CREATE TABLE telefoni(
 
 -- commento fatto su github
 -- commento fatto da remoto
+
+-- ciao son sul master
