@@ -7,10 +7,8 @@ CREATE TABLE persona(
 
 CREATE TABLE telefoni(
     id INT AUTO_INCREMENT PRIMARY KEY,
-	telefono VARCHAR(50) NOTT NULL
+	telefono VARCHAR(50) NOT NULL
 );
 
 -- commento fatto su github
 -- commento fatto da remoto
-
-oh no ho scritto per errore
