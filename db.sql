@@ -11,3 +11,4 @@ CREATE TABLE telefoni(
 );
 
 -- commento fatto su github
+-- commento fatto dal computer
