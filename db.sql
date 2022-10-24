@@ -1,4 +1,4 @@
--- database
+-- database 2
 
 CREATE TABLE persona(
 	id INT AUTO_INCREMENT PRIMARY KEY,
