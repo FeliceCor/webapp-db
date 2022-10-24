@@ -16,6 +16,7 @@ CREATE TABLE telefoni(
 DELIMITER $$
 
 CREATE TRIGGER prova(
+    AFTER INSERT persona
 
 )
 
