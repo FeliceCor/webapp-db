@@ -10,4 +10,4 @@ CREATE TABLE telefoni(
 	telefono VARCHAR(50) NOT NULL
 );
 
--- commento
+-- commento fatto su github
